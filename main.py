@@ -114,7 +114,7 @@ try:
 
 
             
-    input("Finished! Press Enter to exit...")
+    input("Fini ! Pressez Entrer pour terminer !")
     sys.exit() 
 
 except KeyboardInterrupt:
