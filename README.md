@@ -17,7 +17,8 @@ Pour activer le débogage USB dans MIUI, vous devez tout d'abord activer les opt
 Il suffit de télécharger le fichier depuis mon github, d'exécuter .sh sur votre distro Linux.
 
 Par ailleurs, il existe également un outil universel et graphique, open source, permettant de désinstaller les services, sans rooter son téléphone.
-# [https://technastic.com/universal-android-debloater-best-bloatware-remover/](https://github.com/0x192/universal-android-debloater/releases)
+# [https://technastic.com/universal-android-debloater-best-bloatware-remover/] Le tutoriel de celui-ci
+# (https://github.com/0x192/universal-android-debloater/releases) Sa source
 
 La préparation de ce dernier se fait de la même façon, simplement il est compatible avec toute android ayant le débogage USB.
 
